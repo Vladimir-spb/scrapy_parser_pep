@@ -1,5 +1,5 @@
-import scrapy
 import re
+import scrapy
 
 from pep_parse.items import PepParseItem
 
